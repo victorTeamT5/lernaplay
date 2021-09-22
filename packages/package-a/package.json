@@ -1,9 +1,9 @@
 {
   "name": "@mytest/package-a",
-  "version": "2.0.1-alpha.0",
+  "version": "2.0.1-alpha.1",
   "main": "index.js",
   "license": "MIT",
   "dependencies": {
-    "@mytest/package-b": "^2.0.1-alpha.0"
+    "@mytest/package-b": "^2.0.1-alpha.1"
   }
 }
