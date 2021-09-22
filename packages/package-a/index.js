@@ -1,7 +1,7 @@
-import packageA from 'package-b'
+const packageB = require('@mytest/package-b')
 
 function main() {
-  packageA()
+  packageB()
 }
 
 main()
